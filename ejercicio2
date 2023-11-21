@@ -1,0 +1,19 @@
+Para prevenir la filtración de datos de exámenes entre grupos o incluso dentro del mismo grupo cuando se dividen en dos, se pueden implementar varias salvaguardas:
+
+Acceso basado en roles y permisos: Establecer roles claros y asignar permisos específicos a cada usuario o grupo dentro de la plataforma utilizada para el almacenamiento o manejo de exámenes. Garantizar que solo las personas autorizadas tengan acceso a los datos específicos del grupo al que pertenecen.
+
+Encriptación de datos: Mantener los exámenes y los datos relacionados encriptados tanto en reposo como en tránsito. Esto asegura que incluso si los datos se interceptan, no serán legibles sin la clave de encriptación correspondiente.
+
+Seguimiento de accesos y auditorías: Registrar y monitorizar los accesos a los exámenes y a los datos sensibles. Las auditorías regulares pueden identificar patrones sospechosos o accesos indebidos, ayudando a prevenir filtraciones y a tomar medidas rápidas en caso de incidentes.
+
+Separación física o lógica: Si es posible, almacenar los datos de los dos grupos en ubicaciones o servidores separados física o lógicamente. Esto reduce la posibilidad de acceso no autorizado a los datos de otro grupo.
+
+Capas de autenticación y verificación: Implementar medidas de autenticación multifactor (MFA) para asegurar que solo los usuarios autorizados puedan acceder a los exámenes. Además, se pueden emplear técnicas de verificación como preguntas de seguridad o códigos temporales para garantizar la identidad del usuario.
+
+Formación y concienciación: Educar a los usuarios sobre las políticas de seguridad, resaltando la importancia de la confidencialidad de los datos de los exámenes y las consecuencias de cualquier filtración. Esto puede ayudar a mitigar acciones inadvertidas que puedan comprometer la seguridad.
+
+Segregación de funciones: Dividir responsabilidades para limitar el acceso a la información a solo aquellos que necesitan conocerla para cumplir con sus funciones. Esto ayuda a minimizar la exposición de los datos y reduce los riesgos de filtración.
+
+Revisiones y actualizaciones periódicas de seguridad: Realizar evaluaciones regulares de la seguridad, identificar vulnerabilidades y actualizar las medidas de protección según sea necesario para mantenerse al día con las amenazas potenciales.
+
+Al implementar estas salvaguardas en el manejo de exámenes divididos en grupos, se puede reducir significativamente el riesgo de filtración de datos y garantizar la confidencialidad de la información.
