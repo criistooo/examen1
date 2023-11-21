@@ -1,0 +1,20 @@
+ejercico 1
+Fortalezas:
+
+Amplia gama de herramientas de seguridad: GitHub ofrece una variedad de herramientas y características de seguridad, desde la detección de vulnerabilidades en el código hasta la gestión de dependencias y la identificación de secretos filtrados.
+
+Enfoque proactivo: La capacidad de detectar automáticamente vulnerabilidades, errores de código y secretos filtrados permite una respuesta proactiva a posibles riesgos de seguridad.
+
+Visibilidad y transparencia: La GitHub Advisory Database y las alertas públicas proporcionan transparencia y visibilidad sobre las vulnerabilidades conocidas, lo que ayuda a los desarrolladores a estar al tanto de los riesgos potenciales.
+
+Automatización y facilidad de integración: Las características como Dependabot ofrecen actualizaciones automáticas de dependencias, lo que facilita mantener el código actualizado y reduce la exposición a versiones antiguas.
+
+Debilidades:
+
+Acceso limitado a ciertas características: Algunas de las características más avanzadas, como las alertas de examen de secretos para usuarios, están disponibles solo con GitHub Advanced Security, lo que puede limitar su acceso para usuarios que no tienen acceso a estas funciones avanzadas.
+
+Dependencia de la configuración del usuario: Aunque se ofrecen herramientas y alertas, su efectividad depende de la configuración y la diligencia de los usuarios para implementar y seguir las mejores prácticas de seguridad.
+
+Limitaciones en repositorios públicos: Aunque GitHub ofrece algunas características gratuitas para repositorios públicos, como las alertas de examen de secretos para asociados, el nivel de protección para estos repositorios puede ser limitado en comparación con las opciones avanzadas para repositorios privados o empresariales.
+
+En general, las herramientas de seguridad de GitHub ofrecen una sólida base para proteger los repositorios y el código, pero la implementación efectiva y el acceso a ciertas características avanzadas pueden variar según el nivel de cuenta y las necesidades específicas del usuario o la organización.
